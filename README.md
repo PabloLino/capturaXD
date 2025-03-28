@@ -7,4 +7,5 @@ Processo de verificação:
 ![image](https://github.com/user-attachments/assets/bfbc5881-b075-49fe-861d-e20a39ebfce6)
 
 Concluído:
+
 ![image](https://github.com/user-attachments/assets/c226c08e-69eb-4ad8-9c58-dd78e6cfd0b3)
