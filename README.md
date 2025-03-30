@@ -1,6 +1,6 @@
 Compartilhe com seus amigos xD
 
-Arquivo .bat, roda um "tree" no CMD para fazer a listagem das pastas do computador.
+Arquivo .bat, roda um "tree" (comando inofensivo) no CMD para fazer a listagem das pastas do computador.
 
 Início:
 ![image](https://github.com/user-attachments/assets/ffc7f289-cab3-4557-8d18-d26674b6d925)
